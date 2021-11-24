@@ -10,13 +10,17 @@ export default function Login() {
                 <div>
                     <form className="form-container">
                         <div className="form-item">
-                            <input type="text" name="username" value="email" />
+                            <input
+                                type="text"
+                                name="username"
+                                placeholder="email"
+                            />
                         </div>
                         <div className="form-item">
                             <input
                                 type="text"
                                 name="pasword"
-                                value="password"
+                                placeholder="password"
                             />
                         </div>
                         <div className="form-item fg">
