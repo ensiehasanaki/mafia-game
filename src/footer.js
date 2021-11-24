@@ -34,7 +34,7 @@ export default function Footer() {
                 </footer>
 
                 <Routes>
-                    <Route path="/sttings" element={<Setting />} />
+                    <Route path="/settings" element={<Setting />} />
                     <Route path="/policices" element={<Policices />} />
                     <Route path="/FAQ" element={<Faq />} />
                     <Route path="/contact" element={<Contact />} />
