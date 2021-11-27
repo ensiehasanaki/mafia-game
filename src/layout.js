@@ -1,8 +1,6 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./layout.css";
 import Footer from "./footer";
-import Login from "./login";
 
 export default function Layout() {
     return (
@@ -13,11 +11,6 @@ export default function Layout() {
             <footer className="footer">
                 <Footer />
             </footer>
-            <Router>
-                <Routes>
-                    <Route path="/login" element={<Login />} />
-                </Routes>
-            </Router>
         </div>
     );
 }
