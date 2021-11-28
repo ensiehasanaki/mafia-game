@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.18537430.chunk.css",
-    "main.js": "/static/js/main.72e37837.chunk.js",
-    "main.js.map": "/static/js/main.72e37837.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7c975633.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7c975633.js.map",
-    "static/js/2.418d7227.chunk.js": "/static/js/2.418d7227.chunk.js",
-    "static/js/2.418d7227.chunk.js.map": "/static/js/2.418d7227.chunk.js.map",
-    "static/js/3.580f95da.chunk.js": "/static/js/3.580f95da.chunk.js",
-    "static/js/3.580f95da.chunk.js.map": "/static/js/3.580f95da.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.18537430.chunk.css.map": "/static/css/main.18537430.chunk.css.map",
-    "static/js/2.418d7227.chunk.js.LICENSE.txt": "/static/js/2.418d7227.chunk.js.LICENSE.txt"
+    "main.css": "/mafia-game/static/css/main.18537430.chunk.css",
+    "main.js": "/mafia-game/static/js/main.72e37837.chunk.js",
+    "main.js.map": "/mafia-game/static/js/main.72e37837.chunk.js.map",
+    "runtime-main.js": "/mafia-game/static/js/runtime-main.c3e1ad66.js",
+    "runtime-main.js.map": "/mafia-game/static/js/runtime-main.c3e1ad66.js.map",
+    "static/js/2.f118b1cd.chunk.js": "/mafia-game/static/js/2.f118b1cd.chunk.js",
+    "static/js/2.f118b1cd.chunk.js.map": "/mafia-game/static/js/2.f118b1cd.chunk.js.map",
+    "static/js/3.580f95da.chunk.js": "/mafia-game/static/js/3.580f95da.chunk.js",
+    "static/js/3.580f95da.chunk.js.map": "/mafia-game/static/js/3.580f95da.chunk.js.map",
+    "index.html": "/mafia-game/index.html",
+    "static/css/main.18537430.chunk.css.map": "/mafia-game/static/css/main.18537430.chunk.css.map",
+    "static/js/2.f118b1cd.chunk.js.LICENSE.txt": "/mafia-game/static/js/2.f118b1cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c975633.js",
-    "static/js/2.418d7227.chunk.js",
+    "static/js/runtime-main.c3e1ad66.js",
+    "static/js/2.f118b1cd.chunk.js",
     "static/css/main.18537430.chunk.css",
     "static/js/main.72e37837.chunk.js"
   ]
