@@ -1,7 +1,11 @@
+import Player from "./player";
+
 export default function PlayerList() {
     return (
         <div>
-            <div>nc</div>
+            <div>
+                <Player />
+            </div>
         </div>
     );
 }

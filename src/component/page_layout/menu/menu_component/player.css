@@ -1,0 +1,37 @@
+.all {
+    font-size: small;
+    height: 12.5vh;
+    color: white;
+}
+
+.ax {
+    margin-left: 12.5%;
+    width: 25%;
+    background-color: #464f94;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.property {
+    width: 50%;
+    padding: 5px;
+    background-color: #3c3c3c;
+    border: 1px solid white;
+}
+
+.ban {
+    font-size: small;
+    margin: 0px;
+    width: 50%;
+    background-color: red;
+    border: 1px solid white;
+}
+
+.kill {
+    font-size: small;
+    width: 50%;
+    margin: 0px;
+    padding: 5px;
+    background-color: palevioletred;
+    border: 1px solid white;
+}
