@@ -6,7 +6,7 @@ import Setting from "./component/page_layout/footer/footer_component/Setting";
 import Policices from "./component/page_layout/footer/footer_component/Policices";
 import Faq from "./component/page_layout/footer/footer_component/FAQ";
 import Contact from "./component/page_layout/footer/footer_component/contact";
-import PlayerList from "./menu/menu_component/playerList";
+import PlayerList from "./component/page_layout/menu/menu_component/playerList";
 import MainWrapper from "./component/page_layout/mainWrapper";
 import Notfound from "./component/notfound";
 
