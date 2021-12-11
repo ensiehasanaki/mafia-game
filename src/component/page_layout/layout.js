@@ -1,8 +1,10 @@
 import React from "react";
+import { Router, Route, Routes } from "react-router-dom";
 import "./layout.css";
 import Footer from "./footer/footer";
 import Menu from "./menu/menu";
-import { Outlet } from "react-router-dom";
+import PlayerList from "./menu/menu_component/playerList";
+import MainWrapper from "./mainWrapper";
 
 export default function Layout() {
     return (
@@ -12,9 +14,12 @@ export default function Layout() {
             </nav>
             <div className="middel">
                 <section className="section">
-                    <Outlet />
+                    <Routes>
+                        <Route index element={<MainWrapper />} />
+                        <Route path="player" element={<PlayerList />} />
+                    </Routes>
                 </section>
-                <side className="side">extra information wrapper</side>
+                <aside className="side">extra information wrapper</aside>
             </div>
 
             <footer className="footer">
