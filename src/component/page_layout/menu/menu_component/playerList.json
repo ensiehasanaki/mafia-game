@@ -1,0 +1,11 @@
+{
+    "data": [
+        { "Name": "ensi", "Role": "Mafia", "status": "alive" },
+        { "Name": "essa", "Role": "Godfather", "status": "alive" },
+        { "Name": "zahra", "Role": "Natasha", "status": "alive" },
+        { "Name": "mac", "Role": "Citizen", "status": "alive" },
+        { "Name": "asal", "Role": "Doctor", "status": "alive" },
+        { "Name": "mari", "Role": "Citizen", "status": "alive" },
+        { "Name": "mohi", "Role": "Sherif", "status": "alive" }
+    ]
+}
