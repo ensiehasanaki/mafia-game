@@ -7,7 +7,7 @@ import Policices from "./component/page_layout/footer/footer_component/Policices
 import Faq from "./component/page_layout/footer/footer_component/FAQ";
 import Contact from "./component/page_layout/footer/footer_component/contact";
 import PlayerList from "./menu/menu_component/playerList";
-import MainWrapper from "./mainWrapper";
+import MainWrapper from "./component/page_layout/mainWrapper";
 import Notfound from "./component/notfound";
 
 function App() {
