@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mafia-game/static/css/main.165ea12c.chunk.css",
-    "main.js": "/mafia-game/static/js/main.7c9a196c.chunk.js",
-    "main.js.map": "/mafia-game/static/js/main.7c9a196c.chunk.js.map",
-    "runtime-main.js": "/mafia-game/static/js/runtime-main.3a0c5e5c.js",
-    "runtime-main.js.map": "/mafia-game/static/js/runtime-main.3a0c5e5c.js.map",
-    "static/js/2.f118b1cd.chunk.js": "/mafia-game/static/js/2.f118b1cd.chunk.js",
-    "static/js/2.f118b1cd.chunk.js.map": "/mafia-game/static/js/2.f118b1cd.chunk.js.map",
-    "static/js/3.4ef8c64b.chunk.js": "/mafia-game/static/js/3.4ef8c64b.chunk.js",
-    "static/js/3.4ef8c64b.chunk.js.map": "/mafia-game/static/js/3.4ef8c64b.chunk.js.map",
+    "main.css": "/mafia-game/static/css/main.781bbbbf.chunk.css",
+    "main.js": "/mafia-game/static/js/main.e5d7efd7.chunk.js",
+    "main.js.map": "/mafia-game/static/js/main.e5d7efd7.chunk.js.map",
+    "runtime-main.js": "/mafia-game/static/js/runtime-main.c2e7c089.js",
+    "runtime-main.js.map": "/mafia-game/static/js/runtime-main.c2e7c089.js.map",
+    "static/js/2.e2b5262f.chunk.js": "/mafia-game/static/js/2.e2b5262f.chunk.js",
+    "static/js/2.e2b5262f.chunk.js.map": "/mafia-game/static/js/2.e2b5262f.chunk.js.map",
+    "static/js/3.0cd6e28c.chunk.js": "/mafia-game/static/js/3.0cd6e28c.chunk.js",
+    "static/js/3.0cd6e28c.chunk.js.map": "/mafia-game/static/js/3.0cd6e28c.chunk.js.map",
     "index.html": "/mafia-game/index.html",
-    "static/css/main.165ea12c.chunk.css.map": "/mafia-game/static/css/main.165ea12c.chunk.css.map",
-    "static/js/2.f118b1cd.chunk.js.LICENSE.txt": "/mafia-game/static/js/2.f118b1cd.chunk.js.LICENSE.txt"
+    "static/css/main.781bbbbf.chunk.css.map": "/mafia-game/static/css/main.781bbbbf.chunk.css.map",
+    "static/js/2.e2b5262f.chunk.js.LICENSE.txt": "/mafia-game/static/js/2.e2b5262f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a0c5e5c.js",
-    "static/js/2.f118b1cd.chunk.js",
-    "static/css/main.165ea12c.chunk.css",
-    "static/js/main.7c9a196c.chunk.js"
+    "static/js/runtime-main.c2e7c089.js",
+    "static/js/2.e2b5262f.chunk.js",
+    "static/css/main.781bbbbf.chunk.css",
+    "static/js/main.e5d7efd7.chunk.js"
   ]
 }
