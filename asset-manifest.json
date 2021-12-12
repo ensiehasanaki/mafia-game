@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mafia-game/static/css/main.09268d87.chunk.css",
-    "main.js": "/mafia-game/static/js/main.86738d0c.chunk.js",
-    "main.js.map": "/mafia-game/static/js/main.86738d0c.chunk.js.map",
-    "runtime-main.js": "/mafia-game/static/js/runtime-main.97e578cb.js",
-    "runtime-main.js.map": "/mafia-game/static/js/runtime-main.97e578cb.js.map",
-    "static/js/2.68ce1683.chunk.js": "/mafia-game/static/js/2.68ce1683.chunk.js",
-    "static/js/2.68ce1683.chunk.js.map": "/mafia-game/static/js/2.68ce1683.chunk.js.map",
-    "static/js/3.36a72a37.chunk.js": "/mafia-game/static/js/3.36a72a37.chunk.js",
-    "static/js/3.36a72a37.chunk.js.map": "/mafia-game/static/js/3.36a72a37.chunk.js.map",
+    "main.js": "/mafia-game/static/js/main.8d8a6c7d.chunk.js",
+    "main.js.map": "/mafia-game/static/js/main.8d8a6c7d.chunk.js.map",
+    "runtime-main.js": "/mafia-game/static/js/runtime-main.aa92325d.js",
+    "runtime-main.js.map": "/mafia-game/static/js/runtime-main.aa92325d.js.map",
+    "static/js/2.3751fca1.chunk.js": "/mafia-game/static/js/2.3751fca1.chunk.js",
+    "static/js/2.3751fca1.chunk.js.map": "/mafia-game/static/js/2.3751fca1.chunk.js.map",
+    "static/js/3.78f4dc78.chunk.js": "/mafia-game/static/js/3.78f4dc78.chunk.js",
+    "static/js/3.78f4dc78.chunk.js.map": "/mafia-game/static/js/3.78f4dc78.chunk.js.map",
     "index.html": "/mafia-game/index.html",
     "static/css/main.09268d87.chunk.css.map": "/mafia-game/static/css/main.09268d87.chunk.css.map",
-    "static/js/2.68ce1683.chunk.js.LICENSE.txt": "/mafia-game/static/js/2.68ce1683.chunk.js.LICENSE.txt"
+    "static/js/2.3751fca1.chunk.js.LICENSE.txt": "/mafia-game/static/js/2.3751fca1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97e578cb.js",
-    "static/js/2.68ce1683.chunk.js",
+    "static/js/runtime-main.aa92325d.js",
+    "static/js/2.3751fca1.chunk.js",
     "static/css/main.09268d87.chunk.css",
-    "static/js/main.86738d0c.chunk.js"
+    "static/js/main.8d8a6c7d.chunk.js"
   ]
 }
