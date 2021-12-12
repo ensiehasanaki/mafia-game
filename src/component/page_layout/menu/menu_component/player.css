@@ -1,7 +1,5 @@
 .container-player {
-    display: grid;
-    justify-items: center;
-    align-items: center;
+    float: left;
     color: white;
     background-color: #3c3c3c;
     border: 1px solid white;
@@ -11,6 +9,7 @@
 
 .ax {
     display: grid;
+    justify-self: center;
     align-items: center;
     justify-items: center;
     width: 75px;
@@ -37,4 +36,13 @@
     border: 1px solid white;
     width: 75px;
     height: 76px;
+}
+
+.property {
+    text-align: center;
+}
+
+.container-ax {
+    display: grid;
+    justify-items: center;
 }

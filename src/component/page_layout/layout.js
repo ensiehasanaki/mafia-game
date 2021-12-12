@@ -14,7 +14,9 @@ export default function Layout() {
                 <section className="section">
                     <Outlet />
                 </section>
-                <aside className="side">extra information wrapper</aside>
+                <aside className="side">
+                    <p>extra information wrapper</p>
+                </aside>
             </div>
 
             <footer className="footer">

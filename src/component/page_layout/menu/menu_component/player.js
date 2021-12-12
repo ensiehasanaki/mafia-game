@@ -2,8 +2,10 @@ import "./player.css";
 export default function Player() {
     return (
         <div className="container-player">
-            <div className="ax">
-                <p>Ax</p>
+            <div className="container-ax">
+                <div className="ax">
+                    <p>Ax</p>
+                </div>
             </div>
 
             <div className="property">
