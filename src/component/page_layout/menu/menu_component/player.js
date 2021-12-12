@@ -1,5 +1,5 @@
 import "./player.css";
-export default function Player() {
+export default function Player({ Name, Role, status, ban, kill, i }) {
     return (
         <div className="container-player">
             <div className="container-ax">
@@ -9,14 +9,18 @@ export default function Player() {
             </div>
 
             <div className="property">
-                <p>Name</p>
-                <p>Roule</p>
-                <p>Status</p>
+                <p>{Name}</p>
+                <p>{Role}</p>
+                <p>{status}</p>
             </div>
 
             <div>
-                <button className="ban">Ban</button>
-                <button className="kill">kill</button>
+                <button className="ban" onClick={ban(i)}>
+                    Ban
+                </button>
+                <button className="kill" onClick={kill(i)}>
+                    kill
+                </button>
             </div>
         </div>
     );
