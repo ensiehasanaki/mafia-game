@@ -1,37 +1,40 @@
-.all {
-    font-size: small;
-    height: 12.5vh;
+.container-player {
+    display: grid;
+    justify-items: center;
+    align-items: center;
     color: white;
+    background-color: #3c3c3c;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 0;
 }
 
 .ax {
-    margin-left: 12.5%;
-    width: 25%;
-    background-color: #464f94;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    width: 75px;
+    height: 75px;
+    margin-top: -37.5px;
     border: 1px solid white;
     border-radius: 50%;
-}
-
-.property {
-    width: 50%;
-    padding: 5px;
-    background-color: #3c3c3c;
-    border: 1px solid white;
+    background-color: #464f94;
 }
 
 .ban {
-    font-size: small;
+    font-size: medium;
     margin: 0px;
-    width: 50%;
-    background-color: red;
+    background-color: #68071c;
     border: 1px solid white;
+    width: 75px;
+    height: 76px;
 }
 
 .kill {
-    font-size: small;
-    width: 50%;
+    font-size: medium;
     margin: 0px;
-    padding: 5px;
-    background-color: palevioletred;
+    background-color: rgb(245, 9, 87);
     border: 1px solid white;
+    width: 75px;
+    height: 76px;
 }

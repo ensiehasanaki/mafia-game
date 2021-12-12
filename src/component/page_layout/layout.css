@@ -28,7 +28,7 @@
 
 .section {
     display: grid;
-    justify-content: center;
+    justify-items: center;
     align-items: center;
     grid-column-start: 1;
     grid-column-end: 3;
