@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mafia-game/static/css/main.09268d87.chunk.css",
-    "main.js": "/mafia-game/static/js/main.8d8a6c7d.chunk.js",
-    "main.js.map": "/mafia-game/static/js/main.8d8a6c7d.chunk.js.map",
+    "main.js": "/mafia-game/static/js/main.db01a5d9.chunk.js",
+    "main.js.map": "/mafia-game/static/js/main.db01a5d9.chunk.js.map",
     "runtime-main.js": "/mafia-game/static/js/runtime-main.aa92325d.js",
     "runtime-main.js.map": "/mafia-game/static/js/runtime-main.aa92325d.js.map",
     "static/js/2.3751fca1.chunk.js": "/mafia-game/static/js/2.3751fca1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aa92325d.js",
     "static/js/2.3751fca1.chunk.js",
     "static/css/main.09268d87.chunk.css",
-    "static/js/main.8d8a6c7d.chunk.js"
+    "static/js/main.db01a5d9.chunk.js"
   ]
 }
