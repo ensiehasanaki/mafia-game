@@ -3,8 +3,5 @@
     { "Name": "essa", "Role": "Godfather", "status": "alive" },
     { "Name": "mac", "Role": "Citizen", "status": "alive" },
     { "Name": "asal", "Role": "Doctor", "status": "alive" },
-    { "Name": "mari1", "Role": "Citizen", "status": "alive" },
-    { "Name": "mari2", "Role": "Citizen", "status": "alive" },
-    { "Name": "mari3", "Role": "Citizen", "status": "alive" },
-    { "Name": "mari4", "Role": "Citizen", "status": "alive" }
+    { "Name": "mari", "Role": "Citizen", "status": "alive" }
 ]

@@ -2,6 +2,7 @@ import { useImmer } from "use-immer";
 import Player from "./player";
 import Players from "./playerList.json";
 import "./playersList.css";
+import { useEffect } from "react";
 
 export default function PlayerLis() {
     const [player, setPlayer] = useImmer(Players);
@@ -10,6 +11,11 @@ export default function PlayerLis() {
             state[i].status = "killed";
         });
     };
+    useEffect(() => {
+        const timer = setTimeout(() => alert("hi!"), 1000);
+        return () => clearTimeout(timer);
+    }, []);
+
     const ban = (i) => () => {
         setPlayer((state) => {
             delete state[i];
