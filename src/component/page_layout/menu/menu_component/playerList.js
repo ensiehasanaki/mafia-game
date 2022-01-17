@@ -14,16 +14,14 @@ export default function PlayerLis() {
     };
     useEffect(() => {
         const timer = setTimeout(() => {
-            setTime((state) => {
-                if (state == "day") {
-                    state = "night";
-                } else {
-                    state = "day";
-                }
-            });
+            if (time === "day") {
+                setTime("night");
+            } else {
+                setTime("day");
+            }
         }, 1000);
         return () => clearTimeout(timer);
-    }, []);
+    });
 
     const ban = (i) => () => {
         setPlayer((state) => {
