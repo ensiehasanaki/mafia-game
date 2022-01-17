@@ -5,6 +5,7 @@ import "./playersList.css";
 import { useEffect } from "react";
 
 export default function PlayerLis() {
+    const [time, setTime] = useImmer("day");
     const [player, setPlayer] = useImmer(Players);
     const kill = (i) => () => {
         setPlayer((state) => {
@@ -12,7 +13,15 @@ export default function PlayerLis() {
         });
     };
     useEffect(() => {
-        const timer = setTimeout(() => alert("hi!"), 1000);
+        const timer = setTimeout(() => {
+            setTime((state) => {
+                if (state == "day") {
+                    state = "night";
+                } else {
+                    state = "day";
+                }
+            });
+        }, 1000);
         return () => clearTimeout(timer);
     }, []);
 
