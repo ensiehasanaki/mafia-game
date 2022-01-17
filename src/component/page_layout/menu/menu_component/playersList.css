@@ -1,3 +1,8 @@
-.players {
-    margin: 25px 20px;
+.day {
+    padding: 25px 30px;
+    background-color: #301934;
+}
+.night {
+    padding: 25px 30px;
+    background-color: #ffd580;
 }

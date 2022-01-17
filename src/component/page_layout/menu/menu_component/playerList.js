@@ -19,7 +19,7 @@ export default function PlayerLis() {
             } else {
                 setTime("day");
             }
-        }, 1000);
+        }, 10000);
         return () => clearTimeout(timer);
     });
 
@@ -30,7 +30,7 @@ export default function PlayerLis() {
     };
 
     return (
-        <div className="players">
+        <div className={time}>
             {player.map((Item, i) => (
                 <Player key={Item.Name} {...Item} ban={ban} kill={kill} i={i} />
             ))}

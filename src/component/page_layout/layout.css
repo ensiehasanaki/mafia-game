@@ -29,8 +29,8 @@
 .section {
     overflow: auto;
     display: grid;
-    justify-items: center;
-    align-items: center;
+    justify-items: stretch;
+    align-items: stretch;
     grid-column-start: 1;
     grid-column-end: 3;
     height: 65vh;
